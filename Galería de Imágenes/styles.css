@@ -10,10 +10,11 @@ body {
 
 .link-button {
     text-decoration: none;
-    color: black;
+    color: rgb(117, 60, 98);
+    font-family: fantasy;
     border: 1px solid gray;
     background-color: #f2f2f2;
     padding: 5px;
     border-radius: 5px;
-    box-shadow: 2px 3px #888888;
+    box-shadow: 2px 3px rgb(117, 60, 98);
 }
