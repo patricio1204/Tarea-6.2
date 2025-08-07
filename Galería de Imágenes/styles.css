@@ -1,14 +1,19 @@
 body {
-    background-color: rgb(17, 187, 221);
+
+  text-align: center;
+   background-color: rgb(17, 187, 221);
+
 }
 
-.image{
-    border: 5px solid green;
-    border-radius: 10px;
-    height: 400px;
+.image {
+  border: 5px solid green;
+  border-radius: 10px;
+  height: 400px;
 }
 
 .link-button {
+
+
     text-decoration: none;
     color: rgb(117, 60, 98);
     font-family: fantasy;
@@ -18,3 +23,4 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px rgb(117, 60, 98);
 }
+
